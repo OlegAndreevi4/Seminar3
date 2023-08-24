@@ -14,9 +14,10 @@ git remoute add <имя для репозитория> <url-адрес репо�
 ```
 git pull
 ```
+
 ```
 for(int i = 1; i < 10; i++)
 {
-        Console.writeLine(i*i)
+        Console.WriteLine(i*i)
 }
 ```
