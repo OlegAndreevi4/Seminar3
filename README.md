@@ -15,8 +15,8 @@ git remoute add <имя для репозитория> <url-адрес репо�
 git pull
 ```
 ```
-while(n < 0)
+for(int i = 1; i < 10; i++)
 {
-n++;
+        Console.writeLine(i*i)
 }
 ```
